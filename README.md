@@ -1,12 +1,6 @@
-# brentlemons
 
-## Table of Contents
+## I'll add awesome content. First, experiment.
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Credits](#credits)
-- [Support](#support)
-- [License](#license)
+- [Repositories](https://github.com/brentlemons?tab=repositories)
+- [Projects](https://github.com/brentlemons?tab=projects)
 
